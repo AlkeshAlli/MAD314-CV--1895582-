@@ -82,5 +82,5 @@ Steps for Task accomplishment:-
 	      To https://github.com/AlkeshAlli/MAD314-CV--1895582-.git
 	      e5a1fed..8574993  master -> master
 
-CV uploaded with instruction
+CV uploaded with instructions.
 
