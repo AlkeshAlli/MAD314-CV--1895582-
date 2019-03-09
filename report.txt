@@ -2,8 +2,6 @@ Report of 1895582 for Assignment on creating a CV.
 
 Steps for Task accomplishment:-
 
-
-
 1) Command:   git add instructions.txt
    Purpose:   to add file to git.
    Response:  added file to git.
