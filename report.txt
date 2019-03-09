@@ -1,0 +1,12 @@
+Report of 1895582 for Assignment on creating a CV.
+
+Steps for Task accomplishment:-
+
+1) Command:   mkdir MAD314-CV-{1895582}
+   Purpose:   to create a directory.
+   Response:  a directory MAD314-CV-{1895582} created.
+2) Command:   cd MAD314-CV-{1895582}
+   Purpose:   to change current directory.
+   Response:  changed directory to MAD314-CV-{1895582}.
+
+
